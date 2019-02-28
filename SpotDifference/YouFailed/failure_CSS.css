@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../Images/background.jpg);
+	color:white;
+	
+}
+	
+
+h1{
+	font-size:95.67893453235645822342342342342419553845983603593458353px;
+	
+	
+}
+	
+	
+#text{
+	width:75%;
+	font-size:40px;
+	
+	
+	
+	
+}
+	
+#Space{
+	
+	height:10000000px;
+	
+	
+}
+
+#AnswerKey{
+	
+	font-size:40px;
+	
+}
+
+
