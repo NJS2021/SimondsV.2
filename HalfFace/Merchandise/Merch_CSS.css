@@ -1,0 +1,198 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-image:url(../Images/Background.png);
+	height:auto;
+	width:auto;
+	
+}
+
+
+
+a{
+	text-decoration:none;
+	
+	color:black;
+	
+}
+
+
+	
+hr{
+	
+	border-color:#000000;
+}
+
+#barnav{
+	width:335px;
+	height:50px;
+	
+	
+}
+
+#freespace{
+	
+	width:100%;
+	height:50px;
+	
+}
+
+.home{
+	
+	width:100px;
+	height:40px;
+	border:solid;
+	margin-left:2px;
+	border-color:black;
+	float:left;
+	
+}
+
+.Events{
+	width:100px;
+	height:40px;
+	border:solid;
+	border-color:black;
+	margin-left:5px;
+	float:left;
+	
+}
+
+.merch{
+	width:100px;
+	height:40px;
+	border:solid;
+	border-color:black;
+	margin-left:5px;
+	float:left;
+	
+}
+
+#shirts{
+	
+	margin-top:20px;
+	
+	
+	
+	
+}
+
+
+#base{
+	float:left;
+	margin-left:600px;
+	width:10%;
+	height:40%;
+	border-width:medium;
+	border:solid;
+}
+
+#base2{
+	margin-top:75px;
+	float:left;
+	margin-left:600px;
+	width:10%;
+	height:40%;
+	border-width:medium;
+	border:solid;
+}
+
+
+.base{
+	float:left;
+	margin-left:200px;
+	width:10%;
+	height:40%;
+	border-width:medium;
+	border:solid;
+}
+
+.base2{
+	margin-top:75px;
+	float:left;
+	margin-left:200px;
+	width:10%;
+	height:40%;
+	border-width:medium;
+	border:solid;
+}
+
+.title{
+	
+	font-size:15px;
+	margin:0px;
+	
+}
+
+.shirt{
+	
+	border-radius:10px;
+	border-width:medium;
+	margin:0px;
+	
+}
+
+.pricedash{
+	font-size:20px;
+	color:red;
+	text-decoration:line-through;
+	margin-top:2px;
+}
+
+
+.price{
+	font-size:30px;
+	margin:0px;
+	
+}
+
+
+.buy{
+	margin:0px;
+	font-size:30px;
+	
+}
+
+
+
+p{
+	
+	margin:0px;
+}
+
+h1{
+	margin-top:-5px;
+	color:black;
+	
+}
+
+
+
+
+#top{
+		font-size:150%;
+
+
+	}
+		#container{
+			height:auto;
+			width:auto;
+			align-content:center;
+			margin-top:70px;
+
+
+		}
+
+#first{
+
+}
+
+#text{
+	
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	
+}

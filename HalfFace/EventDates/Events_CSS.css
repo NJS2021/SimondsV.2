@@ -1,0 +1,169 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-image:url(../Images/Background.png)
+	
+	
+	
+}
+
+a{
+	text-decoration:none;
+	
+	color:black;
+	
+}
+	
+hr{
+	
+	border-color:#000000;
+}
+
+#barnav{
+	width: 335px;
+	height:50px;
+	
+	
+}
+
+
+.home{
+	
+	width:100px;
+	height:40px;
+	border:solid;
+	margin-left:2px;
+	border-color:black;
+	float:left;
+	
+}
+
+.Events{
+	width:100px;
+	height:40px;
+	border:solid;
+	border-color:black;
+	margin-left:5px;
+	float:left;
+	
+}
+
+.merch{
+	width:100px;
+	height:40px;
+	border:solid;
+	border-color:black;
+	margin-left:5px;
+	float:left;
+	
+}
+
+.date{
+	
+	float:left;
+	
+}
+
+
+
+
+
+
+h1{
+	margin-top:-5px;
+	color:black;
+	
+}
+
+
+
+
+#top{
+		font-size:150%;
+
+
+	}
+		#container{
+			height:900px;
+			width:auto;
+			align-content:center;
+
+
+
+		}
+
+
+#freespace{
+	
+	width:100%;
+	height:10%;
+	
+	
+	
+	
+}
+
+
+.type{
+	
+	float:left;
+	width:30%;
+	
+}
+
+.date{
+	
+	width:15%;
+	
+}
+
+.location{
+	float:left;
+	
+	width:40%;
+	
+ 
+}
+
+.buy{
+	float:left;
+	
+	width:15%;
+}
+
+
+#inforow{
+	height: 100px;
+	width:65%;
+	font-size:30px;
+	border-style: solid;
+	border-color: black;
+	border-right: 10px;
+	border-left: 10px;
+	
+}
+
+.inforow{
+	height: 100px;
+	width:65%;
+	font-size:30px;
+	border-style: solid;
+	border-color: black;
+	border-right: 10px;
+	border-left: 10px;
+	border-top:10px;
+}
+
+
+
+
+
+#text{
+	
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	
+}

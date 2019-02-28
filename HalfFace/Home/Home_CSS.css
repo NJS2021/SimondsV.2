@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-image:url(../Images/Background.png)
+	
+	
+	
+}
+
+a{
+	text-decoration:none;
+	
+	color:black;
+	
+}
+	
+hr{
+	
+	border-color:#000000;
+}
+
+#barnav{
+	width: 335px;
+	height:50px;
+	
+	
+}
+
+
+.home{
+	
+	width:100px;
+	height:40px;
+	border:solid;
+	margin-left:2px;
+	border-color:black;
+	float:left;
+	
+}
+
+.Events{
+	width:100px;
+	height:40px;
+	border:solid;
+	border-color:black;
+	margin-left:5px;
+	float:left;
+	
+}
+
+.merch{
+	width:100px;
+	height:40px;
+	border:solid;
+	border-color:black;
+	margin-left:5px;
+	float:left;
+	
+}
+
+
+
+
+
+
+h1{
+	margin-top:-5px;
+	color:black;
+	
+}
+
+
+
+
+#top{
+		font-size:150%;
+
+
+	}
+		#container{
+			height:auto;
+			width:auto;
+			align-content:center;
+
+
+
+		}
+
+#first{
+	float:left;
+		margin-top:50px;
+		margin-left:325px;
+			height:20%;
+				width:30%;
+}
+
+#second{
+	float:left;
+		margin-top:50px;
+			height:20%;
+				width:auto;
+}
+
+#third{
+	float:left;
+		margin-top:50px;
+		margin-left:145px;
+			height:20%;
+				width:auto;
+}
+
+#fourth{
+	float:left;
+		margin-top:50px;
+		margin-left:325px;
+			height:20%;
+				width:30%;
+}
+
+#fifth{
+	float:left;
+		margin-top:50px;
+			height:20%;
+				width:auto;
+}
+
+#sixth{
+	float:left;
+		margin-top:50px;
+		margin-left:145px;
+			height:20%;
+				width:auto;
+}
+
+#text{
+	
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	
+}
+
+		#textxd{
+			background-color:black;
+				width:73%;
+				height:50px;
+				margin-bottom:10px;
+				color:white;
+				font-size:30px;
+		}
+
+			#textxda{
+				background-color:black;
+				width:100%;
+				height:50px;
+				margin-bottom:10px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxdb{
+				background-color:black;
+				width:100%;
+				height:50px;
+				margin-bottom:10px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxdc{
+				background-color:black;
+				width:73%;
+				height:50px;
+				margin-bottom:10px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxdd{
+				background-color:black;
+				width:100%;
+				height:50px;
+				margin-bottom:10px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxde{
+				background-color:black;
+				width:100%;
+				height:50px;
+				margin-bottom:10px;
+				color:white;
+				font-size:30px;
+			}
