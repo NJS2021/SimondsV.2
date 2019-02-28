@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+img{
+	
+	border-radius:15px;
+	
+	
+}
+
+#ChicagoIL{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+#LosAngelesCA{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+#NewYorkNY{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+
+}
+
+#IslaMujeresMEX{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+
+#LondonENG{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+#HongKongCHN{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+
+
+#base{
+	
+	width:100%;
+	
+}
+
+footer{
+	float:left;
+	width:100%;
+	
+	
+	
+}
+
+
+
+

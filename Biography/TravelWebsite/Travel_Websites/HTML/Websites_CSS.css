@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+img{
+	
+	border-radius:15px;
+	
+	
+}
+
+#Trivago{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+#TripAdvisor{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+#United{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+
+}
+
+#Kayak{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+
+#American{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+#Expedia{
+	
+	margin-left:16%;
+	margin-top:100px;
+	width:300px;
+	height:375px;
+	float:left;
+}
+
+
+
+#base{
+	
+	width:100%;
+	
+}
+
+footer{
+	float:left;
+	width:100%;
+	
+	
+	
+}
+
+
+
+

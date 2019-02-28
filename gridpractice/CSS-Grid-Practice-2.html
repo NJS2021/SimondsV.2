@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Grid Practice 2</title>
+<style>
+	
+	body{
+		text-align: center;
+		color: aqua;
+	}
+	.container{
+		display: grid;
+		grid-gap:1em;
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+		grid-template-rows: repeat(3 minmax(200px auto));
+		max-width: 2400px;
+		margin: 0px auto;
+		background-color:black;
+		padding:1em;
+		height:1000px;
+	}
+	
+	
+	.container> div {
+		
+			
+	}
+	.container > div:nth-child(odd) {
+		padding:1em;
+			
+	}
+	
+	.item1{
+		
+		 grid-area: 1 / 2 / span 2 / span 3;
+		background-color: deeppink;
+        background-image: linear-gradient(to top right, mediumpurple , hotpink);
+	}
+	
+	.item2{
+		
+		background-color: tan;
+        background-image: linear-gradient(to top right, tan , hotpink);
+		
+	}
+	
+	
+	.item3{
+		
+		 grid-area: 1 / 5 / span 1 / span 2;
+		background-color: teal;
+        background-image: linear-gradient(to top right, teal , skyblue);
+	}
+	.item4{
+		
+		 grid-area: 2 / 5 / span 1 / span 2;
+		background-color: teal;
+        background-image: linear-gradient(to top right, skyblue , teal);
+	}
+	
+	.item5{
+		
+		 grid-area: 3 / 3 / span 1 / span 2;
+		background-color: deeppink;
+        background-image: linear-gradient(to top right, hotpink , mediumpurple);
+	}
+	
+</style>
+	
+</head>
+
+<body>
+	
+	
+	<div class="container"> 
+	
+		<div class="item2"> <br> <br> <br> </div>
+		<div class="item1"> <br> <br> <br> </div>
+		<div class="item3"> <br> <br> <br> </div>
+		<div class="item2"> <br> <br> <br> </div>
+		<div class="item4"> <br> <br> <br> </div>
+		<div class="item2"> <br> <br> <br> </div>
+		<div class="item2"> <br> <br> <br> </div>
+		<div class="item5"> <br> <br> <br> </div>
+		<div class="item2"> <br> <br> <br> </div>
+		<div class="item2"> <br> <br> <br> </div>
+	
+		
+
+		
+		
+		
+	</div>	
+	
+	
+</body>
+</html>
